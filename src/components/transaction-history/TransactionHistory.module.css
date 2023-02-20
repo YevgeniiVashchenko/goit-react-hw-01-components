@@ -1,0 +1,25 @@
+.table {
+  margin: 0 auto 20px;
+  width: 50%;
+  text-align: center;
+}
+
+.head {
+  text-transform: uppercase;
+  background-color: blue;
+  color: white;
+}
+
+.headData {
+  padding: 10px 0;
+  outline: 1px solid grey;
+}
+
+.tableRow:nth-of-type(2n) {
+  background-color: #b7e1eb;
+}
+
+.tableData {
+  padding: 10px 0;
+  outline: 1px solid grey;
+}
